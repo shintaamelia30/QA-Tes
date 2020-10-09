@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Selamat Datang_password</name>
+   <name>i__far fa-calendar-alt</name>
    <tag></tag>
-   <elementGuidId>15c1e663-9b18-40a3-8edc-53fdf8446ecc</elementGuidId>
+   <elementGuidId>419e1755-37fb-4a99-be7c-77f7e9259fdb</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@name='password']</value>
+         <value>//div[@id='content']/div/div/div[2]/form/div/div[3]/div/div[2]/div/div/span/i</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>input[name=&quot;password&quot;]</value>
+         <value>i.far.fa-calendar-alt</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,48 +21,34 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>input</value>
+      <value>i</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>input100 inputpassword</value>
+      <value>far fa-calendar-alt</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>password</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>name</name>
-      <type>Main</type>
-      <value>password</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[1]/div[@class=&quot;limiter&quot;]/div[@class=&quot;container-login100&quot;]/div[@class=&quot;wrap-login100&quot;]/form[@class=&quot;login100-form validate-form&quot;]/div[@class=&quot;wrap-input100 validate-input&quot;]/input[@class=&quot;input100 inputpassword&quot;]</value>
+      <value>id(&quot;content&quot;)/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;card shadow mb-4&quot;]/div[@class=&quot;card-body&quot;]/form[@class=&quot;form-global-handle-transfusi&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-6&quot;]/div[@class=&quot;form-group row&quot;]/div[@class=&quot;col-sm-8&quot;]/div[@class=&quot;input-group&quot;]/div[@class=&quot;input-group-prepend&quot;]/span[@class=&quot;input-group-text&quot;]/i[@class=&quot;far fa-calendar-alt&quot;]</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
+      <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//input[@name='password']</value>
+      <value>//div[@id='content']/div/div/div[2]/form/div/div[3]/div/div[2]/div/div/span/i</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/input</value>
+      <value>//span/i</value>
    </webElementXpaths>
 </WebElementEntity>

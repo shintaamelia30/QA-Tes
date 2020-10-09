@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Selamat Datang_password</name>
+   <name>img__ui-datepicker-trigger</name>
    <tag></tag>
-   <elementGuidId>15c1e663-9b18-40a3-8edc-53fdf8446ecc</elementGuidId>
+   <elementGuidId>7dd54a84-0e1f-4759-bd81-06f67c6f7524</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@name='password']</value>
+         <value>//form[@id='frmLeaveApply']/fieldset/ol/li[3]/img</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>input[name=&quot;password&quot;]</value>
+         <value>img.ui-datepicker-trigger</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,48 +21,41 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>input</value>
+      <value>img</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>input100 inputpassword</value>
+      <value>ui-datepicker-trigger</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>type</name>
+      <name>src</name>
       <type>Main</type>
-      <value>password</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>name</name>
-      <type>Main</type>
-      <value>password</value>
+      <value>/webres_5f61a473615588.75870608/themes/default/images/calendar.png</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[1]/div[@class=&quot;limiter&quot;]/div[@class=&quot;container-login100&quot;]/div[@class=&quot;wrap-login100&quot;]/form[@class=&quot;login100-form validate-form&quot;]/div[@class=&quot;wrap-input100 validate-input&quot;]/input[@class=&quot;input100 inputpassword&quot;]</value>
+      <value>id(&quot;frmLeaveApply&quot;)/fieldset[1]/ol[1]/li[3]/img[@class=&quot;ui-datepicker-trigger&quot;]</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
+      <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//input[@name='password']</value>
+      <value>//form[@id='frmLeaveApply']/fieldset/ol/li[3]/img</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/input</value>
+      <value>//li[3]/img</value>
    </webElementXpaths>
 </WebElementEntity>
